@@ -26,3 +26,13 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 - Smooth scrolling navigation
 
 ## 📁 File Structure
+portfolio/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── assets/
+│ ├── Amrutha_R_Resume.pdf
+│ └── Epileptic Seizure Detection Using EEG Signals.pdf
+└── README.md
